@@ -1,4 +1,4 @@
-# CustomerSegmentatio-ML
+# CustomerSegmentation-ML
 # Online Retail Dataset Analysis
 
 ## Overview
